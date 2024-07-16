@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<p align="left">👾Desarrollador versátil con conocimientos en Front-end, Back-end, testing y ciberseguridad.<br>👾Actualmente, me encuentro cursando ingeniería civil informática en la universidad católica de la santísima concepción (UCSC) mientras que en paralelo estoy haciendo proyectos para mejorar mis habilidades en programación.<br>👾Me encuentro aprendiendo Linux por el momento.</p>
+<p align="left">👾Desarrollador versátil con conocimientos en Front-end, Back-end y ciberseguridad.<br>👾Actualmente, me encuentro cursando ingeniería civil informática en la universidad católica de la santísima concepción (UCSC) mientras que en paralelo estoy haciendo proyectos para mejorar mis habilidades en programación.<br>👾Me encuentro aprendiendo Linux por el momento.</p>
 
 ###
 
