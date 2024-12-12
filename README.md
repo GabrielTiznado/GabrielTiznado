@@ -19,7 +19,6 @@
 
 <secction>
 <h2 align="left">About Me</h2>
-<br clear="both">
   <div>
     <p align="left">Versatile developer with intermediate knowledge in Front-end, Back-end, and foundations in UX/UI and Robotics. 
       I stand out for my self-taught learning, ability to self-manage projects, and efficient use of technical documentation.
@@ -29,7 +28,6 @@
 
 <section>
   <h2 align="left">Technical Skills</h2>
-  <br clear="both">
   <div align="left">
     <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
     <img width="12" />
