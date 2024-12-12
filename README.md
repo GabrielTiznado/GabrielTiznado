@@ -16,11 +16,7 @@
 <img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
 </a>
 
-###
-
 <h2 align="left">About Me</h2>
-
-###
 
 <br clear="both">
 
