@@ -1,9 +1,6 @@
 <div align="center">
   <img height="250" src="https://images8.alphacoders.com/129/1293442.jpg"  />
 </div>
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
 
 ## Contact us
 
@@ -24,34 +21,7 @@
 
 <br clear="both">
 
-<p align="left">👾Desarrollador versátil con conocimientos en Front-end, Back-end y ciberseguridad.<br>👾Actualmente, me encuentro cursando ingeniería civil informática en la universidad católica de la santísima concepción (UCSC) mientras que en paralelo estoy haciendo proyectos para mejorar mis habilidades en programación.<br>👾Me encuentro aprendiendo Linux por el momento.</p>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/gabriel-tiznado-856062284" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/tiznadog1/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="tiznadog1@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="+56 9 5930 0376" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
-
-<h2 align="left">Habilidades blandas</h2>
-
-###
-
-<p align="left">🎮 Aprendizaje de manera autodidacta<br>🎲 Capacidad de autogestión<br>🕹 Buena documentación<br>🎯Siempre abierto a nuevas tecnologías</p>
-
-###
+<p align="left">Versatile developer with intermediate knowledge in Front-end, Back-end and bases in UX/UI and Robotics. I stand out for my self-taught learning, ability to self-manage projects and efficient use of technical documentation</p>
 
 <h2 align="left">Hablidades tecnicas</h2>
 
