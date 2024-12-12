@@ -2,7 +2,7 @@
   <img height="250" src="/mnt/data/Overlay%20Github.png" alt="Overlay Github" />
 </div>
 
-## Contact Us
+<h2 align="left">Contact Us</h2>
 
 <a href="https://twitter.com/OSSInsight" target="_blank">
 <img src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
@@ -23,8 +23,6 @@
 <p align="left">Versatile developer with intermediate knowledge in Front-end, Back-end, and foundations in UX/UI and Robotics. I stand out for my self-taught learning, ability to self-manage projects, and efficient use of technical documentation.</p>
 
 <h2 align="left">Technical Skills</h2>
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
@@ -55,6 +53,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
 </div>
-
-###
-
