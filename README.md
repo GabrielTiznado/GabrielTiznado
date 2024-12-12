@@ -14,6 +14,12 @@
     <a href="mailto:ossinsight@pingcap.com" target="_blank">
       <img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
     </a>
+    <a href="mailto:ossinsight@pingcap.com" target="_blank">
+      <img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
+    </a>
+    <a href="mailto:ossinsight@pingcap.com" target="_blank">
+      <img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
+    </a>
   </div>
 </section>
 
@@ -37,15 +43,11 @@
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo" />
-    <img width="12" />
     <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
     <img width="12" />
