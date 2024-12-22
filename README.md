@@ -1,16 +1,19 @@
 ![Tiznadogl](/Overlay.png)
 
+---
+
 ## Hi, I'm Gabriel Tiznado
 Versatile developer with intermediate knowledge in Front-end, Back-end, and foundations in UX/UI and Robotics. I stand out for my self-taught learning, ability to self-manage projects, and efficient use of technical documentation.
 
 **My Research Interests**:
-- Linux
 - Robotics
-- Frontend Development
+- Electro movility
+- Linux
 
 **I am open to**:
+- Frontend Development
 - Collaboration opportunities  
-- Machine learning projects (development or research)
+- Electro movility projects (development or research)
 
 ---
 
