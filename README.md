@@ -35,28 +35,21 @@
 <section>
   <h2 align="left">Technical Skills</h2>
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
+    <h3>Lenguajes de programacion</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py" />
+      </a>
+    <h3>Frameworks</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,express,tailwind,materialui,bootstrap,mysql,sqlite,mongodb" />
+      </a>
+    <h3>Herramientas</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,notion,wordpress,blender,linux,arch" />
+      </a>
+    <h3>Idiomas</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+      </a>
   </div>
 </section>
