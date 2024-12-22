@@ -36,20 +36,12 @@
   <h2 align="left">Technical Skills</h2>
   <div align="left">
     <h3>Lenguajes de programacion</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py" />
     <h3>Frameworks</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,express,tailwind,materialui,bootstrap,mysql,sqlite,mongodb" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=react,express,tailwind,materialui,bootstrap,mysql,sqlite,mongodb" />
     <h3>Herramientas</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,notion,wordpress,blender,linux,arch" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=git,github,notion,wordpress,blender,linux,arch" />
     <h3>Idiomas</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-      </a>
+      <p>"Español Nativo""Ingles B1""Frances A2"</p>
   </div>
 </section>
