@@ -63,4 +63,4 @@ Versatile developer with intermediate knowledge in Front-end, Back-end, and foun
 [<img src="https://img.shields.io/badge/Instagram-1E40AF?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/tiznadog1/)
 [<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/gabriel-tiznado-856062284/)
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> |
+<a href="https://github.com/GabrielTiznado/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTiznadoa&layout=compact&theme=buefy&hide_border=true" /></a> |
