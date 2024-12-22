@@ -1,4 +1,4 @@
-![Tiznadogl](/Overlay Github.png)
+![Tiznadogl](/Overlay.png)
 
 ## Hi im Gabriel Tiznado
 Versatile developer with intermediate knowledge in Front-end, Back-end, and foundations in UX/UI and Robotics. I stand out for my self-taught learning, ability to self-manage projects, and efficient use of technical documentation.
