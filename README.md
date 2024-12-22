@@ -12,7 +12,7 @@ Versatile developer with intermediate knowledge in Front-end, Back-end, and foun
 
 ## Skills:
 
-#### Languages:
+#### Programming Languages:
 
 ![HTML](https://img.shields.io/badge/HTML5-1E3A8A?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1E40AF?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -44,11 +44,14 @@ Versatile developer with intermediate knowledge in Front-end, Back-end, and foun
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1E40AF?style=for-the-badge&logo=arch-linux&logoColor=white)&nbsp;
 
-#### Languages:
+#### Human Languages:
 
-![Español Nativo](https://img.shields.io/badge/Español-Nativo-1E3A8A?style=for-the-badge&logoColor=white)&nbsp;
-![Inglés B1](https://img.shields.io/badge/Inglés-B1-1E40AF?style=for-the-badge&logoColor=white)&nbsp;
-![Francés A2](https://img.shields.io/badge/Francés-A2-000000?style=for-the-badge&logoColor=white)&nbsp;
+![Español](https://img.shields.io/badge/Español-000000?style=for-the-badge&logoColor=white)&nbsp; 
+![Nativo](https://img.shields.io/badge/Nativo-1E3A8A?style=for-the-badge&logoColor=white)&nbsp;  
+![Inglés](https://img.shields.io/badge/Inglés-000000?style=for-the-badge&logoColor=white)&nbsp; 
+![B1](https://img.shields.io/badge/B1-1E3A8A?style=for-the-badge&logoColor=white)&nbsp;  
+![Francés](https://img.shields.io/badge/Francés-000000?style=for-the-badge&logoColor=white)&nbsp; 
+![A2](https://img.shields.io/badge/A2-1E3A8A?style=for-the-badge&logoColor=white)&nbsp;
 
 ## Connect with me:
 
