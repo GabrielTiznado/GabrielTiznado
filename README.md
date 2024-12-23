@@ -1,5 +1,11 @@
 ![Tiznadogl](/Overlay.png)
 
+## Connect with me:
+[<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white">](https://TiznadogStudios.cl)&nbsp;
+[<img src="https://img.shields.io/badge/Gmail-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:tiznadog1@gmail.com)&nbsp;
+[<img src="https://img.shields.io/badge/Instagram-1E40AF?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/tiznadog1/)&nbsp;  
+[<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/gabriel-tiznado-856062284/)&nbsp;
+
 ---
 
 ## Hi, I'm Gabriel Tiznado
@@ -56,12 +62,6 @@ Versatile developer with intermediate knowledge in Front-end, Back-end, and foun
 ![A2](https://img.shields.io/badge/A2-1E3A8A?style=for-the-badge&logoColor=white)&nbsp;
 
 ---
-
-## Connect with me:
-[<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white">](https://TiznadogStudios.cl)  
-[<img src="https://img.shields.io/badge/Gmail-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:tiznadog1@gmail.com)  
-[<img src="https://img.shields.io/badge/Instagram-1E40AF?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/tiznadog1/)  
-[<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/gabriel-tiznado-856062284/)
 
 <a href="https://github.com/GabrielTiznado/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTiznado&layout=compact&theme=buefy&hide_border=true" />
