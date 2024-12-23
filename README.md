@@ -1,6 +1,7 @@
 ![Tiznadogl](/Overlay.png)
 
 ## Connect with me:
+
 [<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white">](https://TiznadogStudios.cl)&nbsp;
 [<img src="https://img.shields.io/badge/Gmail-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:tiznadog1@gmail.com)&nbsp;
 [<img src="https://img.shields.io/badge/Instagram-1E40AF?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/tiznadog1/)&nbsp;  
