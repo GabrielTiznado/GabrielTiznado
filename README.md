@@ -1,4 +1,4 @@
-![Tiznadogl](/Overlay.png)
+![Tiznadogl](/Overlay_TiznadogStudios.png)
 
 ## Connect with me:
 
