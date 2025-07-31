@@ -77,3 +77,4 @@ I am seeking an opportunity to grow professionally within a dynamic team where I
 <a href="https://github.com/GabrielTiznado/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTiznado&layout=compact&theme=buefy&hide_border=true" />
 </a>
+
