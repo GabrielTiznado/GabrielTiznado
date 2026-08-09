@@ -12,19 +12,14 @@
 ---
 
 ## Hi, I'm Gabriel Tiznado
-I am a FullStack Developer from Chile, specializing in the MERN stack with TypeScript and responsive design using Tailwind CSS. With countless hours dedicated to coding and problem-solving. I possess strong expertise in Python and TypeScript, along with a solid foundation in algorithms and programming logic.
+Cybersecurity-focused Engineer with a background in Web and SEO consulting. I am a strong advocate for Open Source and continuous self-directed learning, actively participating and excelling in Bug Bounty programs.
 
-I am confident that my passion for building efficient solutions and my dedication to development would make me a valuable asset to your organization.
-
-**My Interests**:
-I am seeking an opportunity to grow professionally within a dynamic team where I can contribute while refining my skills. 
-
+Passionate about building tools with TypeScript and Python, I strive to develop solutions that aren't just functional, but secure and robust. 
 
 **I am open to**:
-- Collaboration opportunities  
-- Work like Junior Frontend Developer
-- Work like Junior Backend Developer
-- Work like Freelance
+- 💼 Security & IT Roles: Cybersecurity Engineer, SOC Analyst, IT Support
+- 💻 Development Roles: Backend / Frontend Developer (TypeScript, Python), Freelance projects
+- 🤝 Collaboration: Open Source projects & security research
 
 ---
 
