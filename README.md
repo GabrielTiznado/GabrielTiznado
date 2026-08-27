@@ -80,10 +80,3 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
 [![Agile](https://img.shields.io/badge/Metodologías_Ágiles-000000?style=for-the-badge&logoColor=white)](#)
 
 ---
-
-<div align="center">
-  <a href="https://github.com/GabrielTiznado">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTiznado&layout=compact&theme=buefy&hide_border=true" alt="Gabriel's Top Languages" />
-  </a>
-</div>
-
