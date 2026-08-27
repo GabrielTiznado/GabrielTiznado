@@ -4,23 +4,6 @@
   </a>
 </div>
 
-<div align="center">
-  <!-- Tarjeta de Cabecera con tus colores corporativos / terminal -->
-  <table width="100%" bgcolor="#1E3A8A" style="border-radius: 12px; padding: 25px; color: #ffffff;">
-    <tr>
-      <td align="center">
-        <h1 style="margin: 0; font-size: 32px; font-family: monospace;">🛡️ Gabriel Tiznado</h1>
-        <p style="margin: 10px 0 0 0; font-size: 18px; font-family: monospace; color: #93C5FD;">
-          <b>Cybersecurity Engineer</b> &bull; <b>Blue Team / SOC Analyst</b>
-        </p>
-        <p style="margin: 15px 0 0 0; font-size: 14px; font-family: monospace; color: #E2E8F0;">
-          <code>&gt;_ status: Defenses Active &bull; Transforming coffee into secure code ☕</code>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## Connect with me:
 
 [<img src="https://img.shields.io/badge/Gmail-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:tiznadog1@gmail.com)&nbsp;
