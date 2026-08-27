@@ -4,6 +4,18 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/GabrielTiznado">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FFFFFF&background=1E3A8A&center=true&vCenter=true&width=1000&height=120&lines=👋+¡Hola!+Soy+Gabriel+Tiznado;🛡️+Cybersecurity+Engineer;🔍+Blue+Team+%7C+SOC+Analyst;☕+Transformando+café+en+código+seguro" alt="Typing effect" width="100%" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/GabrielTiznado">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=800&color=4ADE80&background=1E3A8A&center=true&vCenter=true&width=1000&height=120&lines=>_whoami;Gabriel+Tiznado;>_role;Cybersec+Engineer+%26+SOC+Analyst;>_status;Defenses+Active+✅" alt="Typing effect" width="100%" />
+  </a>
+</div>
+
 ## Connect with me:
 
 [<img src="https://img.shields.io/badge/Gmail-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:tiznadog1@gmail.com)&nbsp;
