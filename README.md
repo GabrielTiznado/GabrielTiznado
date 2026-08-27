@@ -10,45 +10,21 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=000000,1E3A8A,1E40AF&height=250&section=header&text=Gabriel%20Tiznado&fontSize=60&fontAlignY=40&desc=Cybersecurity%20Engineer&descAlignY=65&descSize=25&fontColor=ffffff" alt="Gabriel Tiznado Banner" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=1E3A8A&height=250&section=header&text=Gabriel%20Tiznado&fontSize=60&fontAlignY=40&desc=Cybersecurity%20Engineer&descAlignY=65&descSize=25&fontColor=ffffff" alt="Gabriel Tiznado Banner" />
-</div>
-
-<div align="center">
   <a href="https://github.com/GabrielTiznado">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=1E40AF&center=true&vCenter=true&width=700&height=100&lines=Gabriel+Tiznado;Cybersecurity+Engineer;Blue+Team+%7C+SOC+Analyst" alt="Typing effect" />
   </a>
 </div>
 
 <div align="center">
-  <!-- Banner con tu nombre -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E3A8A&height=120&section=header&text=Gabriel%20Tiznado&fontSize=50&fontColor=ffffff" alt="Gabriel Tiznado" />
-  <br>
-  <!-- Animación de roles con emojis -->
   <a href="https://github.com/GabrielTiznado">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=1E40AF&center=true&vCenter=true&width=500&height=50&lines=🛡️+Cybersecurity+Engineer;🔍+Blue+Team+%7C+SOC+Analyst;💻+Go+%26+Python+Developer" alt="Typing effect" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=3B82F6&background=000000&center=true&vCenter=true&width=700&height=120&lines=Gabriel+Tiznado;Cybersecurity+Engineer;Blue+Team+%7C+SOC+Analyst" alt="Typing effect" />
   </a>
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <!-- Columna Izquierda: Tu foto de perfil de GitHub -->
-      <td align="center" width="250">
-        <img src="https://github.com/GabrielTiznado.png" width="150" style="border-radius: 50%;" alt="Gabriel Tiznado"/>
-      </td>
-      <!-- Columna Derecha: Saludo y Animación -->
-      <td align="center" width="450">
-        <h1>¡Hola! Soy Gabriel Tiznado 👋</h1>
-        <a href="https://github.com/GabrielTiznado">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=1E40AF&center=true&vCenter=true&width=450&height=50&lines=🛡️+Cybersecurity+Engineer;🔍+Blue+Team+%7C+SOC+Analyst;👨‍💻+Construyendo+herramientas+seguras" alt="Typing effect" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/GabrielTiznado">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=FFFFFF&background=1E3A8A&center=true&vCenter=true&width=700&height=120&lines=Gabriel+Tiznado;Cybersecurity+Engineer;Blue+Team+%7C+SOC+Analyst" alt="Typing effect" />
+  </a>
 </div>
 
 ## Hi, I'm Gabriel Tiznado
