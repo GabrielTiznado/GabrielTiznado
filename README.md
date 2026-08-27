@@ -1,12 +1,19 @@
 <div align="center">
   <a href="https://github.com/GabrielTiznado">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=FFFFFF&background=1E3A8A&center=true&vCenter=true&width=1000&height=120&lines=Hi,+I'm+Gabriel+Tiznado;Cybersecurity+Engineer;Blue+Team+%7C+SOC+Analyst" alt="Typing effect" width="100%" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=FFFFFF&background=1E3A8A&center=true&vCenter=true&width=1000&height=120&lines=Gabriel+Tiznado;Cybersecurity+Engineer;Blue+Team+%7C+SOC+Analyst" alt="Typing effect" width="100%" />
   </a>
 </div>
+
+## Hi, I'm Gabriel Tiznado
 
 Cybersecurity-focused Engineer with a background in Web and SEO consulting. I am a strong advocate for Open Source and continuous self-directed learning, actively participating and excelling in Bug Bounty programs.
 
 Passionate about building tools with TypeScript and GO, I strive to develop solutions that aren't just functional, but secure and robust. 
+
+**I am open to**:
+- 💼 Security & IT Roles: Cybersecurity Engineer, SOC Analyst, IT Support
+- 💻 Development Roles: Backend / Frontend Developer (TypeScript, GO), Freelance projects
+- 🤝 Collaboration: Open Source projects & security research
 
 ## Connect with me:
 
@@ -14,17 +21,6 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
 [<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/gabriel-tiznado-856062284/)&nbsp;
 [![Video Presentation 🇺🇸](https://img.shields.io/badge/Video_Presentation_🇺🇸-E62117?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/HEnTXrjdCZ8)
 [![Video Presentación 🇪🇸](https://img.shields.io/badge/Video_Presentación_🇪🇸-E62117?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/HEnTXrjdCZ8)
-
----
-
-## Hi, I'm Gabriel Tiznado
-
-**I am open to**:
-- 💼 Security & IT Roles: Cybersecurity Engineer, SOC Analyst, IT Support
-- 💻 Development Roles: Backend / Frontend Developer (TypeScript, GO), Freelance projects
-- 🤝 Collaboration: Open Source projects & security research
-
----
 
 ## Skills
 #### Programming Languages:
