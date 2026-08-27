@@ -13,6 +13,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=000000,1E3A8A,1E40AF&height=250&section=header&text=Gabriel%20Tiznado&fontSize=60&fontAlignY=40&desc=Cybersecurity%20Engineer&descAlignY=65&descSize=25&fontColor=ffffff" alt="Gabriel Tiznado Banner" />
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=1E3A8A&height=250&section=header&text=Gabriel%20Tiznado&fontSize=60&fontAlignY=40&desc=Cybersecurity%20Engineer&descAlignY=65&descSize=25&fontColor=ffffff" alt="Gabriel Tiznado Banner" />
+</div>
+
 ## Hi, I'm Gabriel Tiznado
 Cybersecurity-focused Engineer with a background in Web and SEO consulting. I am a strong advocate for Open Source and continuous self-directed learning, actively participating and excelling in Bug Bounty programs.
 
