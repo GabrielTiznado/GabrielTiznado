@@ -2,9 +2,7 @@
 
 ## Connect with me:
 
-[<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white">](https://TiznadogStudios.cl)&nbsp;
 [<img src="https://img.shields.io/badge/Gmail-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:tiznadog1@gmail.com)&nbsp;
-[<img src="https://img.shields.io/badge/Instagram-1E40AF?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/tiznadog1/)&nbsp;  
 [<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/gabriel-tiznado-856062284/)&nbsp;
 [![Video Presentation 🇺🇸](https://img.shields.io/badge/Video_Presentation_🇺🇸-E62117?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/HEnTXrjdCZ8)
 [![Video Presentación 🇪🇸](https://img.shields.io/badge/Video_Presentación_🇪🇸-E62117?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/HEnTXrjdCZ8)
