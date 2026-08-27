@@ -34,18 +34,6 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
 ![AssemblyScript](https://img.shields.io/badge/AssemblyScript-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)&nbsp;
 ![Bash](https://img.shields.io/badge/Bash-1E3A8A?style=for-the-badge&logo=gnubash&logoColor=white)&nbsp;
 
-#### Frameworks and Libraries:
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)&nbsp;
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1E3A8A?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![Material-UI](https://img.shields.io/badge/Material--UI-1E40AF?style=for-the-badge&logo=mui&logoColor=white)&nbsp;
-[![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)](#)
-
-#### Databases:
-![SQLite](https://img.shields.io/badge/SQLite-1E3A8A?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E40AF?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-
 #### Cybersecurity (Blue Team / SOC):
 ![Wazuh](https://img.shields.io/badge/Wazuh-1E3A8A?style=for-the-badge&logo=wazuh&logoColor=white)&nbsp;
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)&nbsp;
@@ -57,6 +45,18 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
 ![CrowdStrike](https://img.shields.io/badge/CrowdStrike-1E3A8A?style=for-the-badge&logo=crowdstrike&logoColor=white)&nbsp;
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-1E40AF?style=for-the-badge&logo=mitre&logoColor=white)&nbsp;
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)&nbsp;
+
+#### Frameworks and Libraries:
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1E3A8A?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![Material-UI](https://img.shields.io/badge/Material--UI-1E40AF?style=for-the-badge&logo=mui&logoColor=white)&nbsp;
+[![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)](#)
+
+#### Databases:
+![SQLite](https://img.shields.io/badge/SQLite-1E3A8A?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E40AF?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 #### Tools and Technologies:
 ![Docker](https://img.shields.io/badge/Docker-1E3A8A?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
