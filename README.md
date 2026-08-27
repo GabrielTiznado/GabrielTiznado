@@ -17,6 +17,12 @@
   <img src="https://capsule-render.vercel.app/api?type=slice&color=1E3A8A&height=250&section=header&text=Gabriel%20Tiznado&fontSize=60&fontAlignY=40&desc=Cybersecurity%20Engineer&descAlignY=65&descSize=25&fontColor=ffffff" alt="Gabriel Tiznado Banner" />
 </div>
 
+<div align="center">
+  <a href="https://github.com/GabrielTiznado">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=1E40AF&center=true&vCenter=true&width=700&height=100&lines=Gabriel+Tiznado;Cybersecurity+Engineer;Blue+Team+%7C+SOC+Analyst" alt="Typing effect" />
+  </a>
+</div>
+
 ## Hi, I'm Gabriel Tiznado
 Cybersecurity-focused Engineer with a background in Web and SEO consulting. I am a strong advocate for Open Source and continuous self-directed learning, actively participating and excelling in Bug Bounty programs.
 
