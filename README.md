@@ -83,7 +83,9 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
 
 ---
 
-<a href="https://github.com/GabrielTiznado/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTiznado&layout=compact&theme=buefy&hide_border=true" />
-</a>
+<div align="center">
+  <a href="https://github.com/GabrielTiznado">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTiznado&layout=compact&theme=buefy&hide_border=true" alt="Gabriel's Top Languages" />
+  </a>
+</div>
 
