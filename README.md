@@ -1,8 +1,12 @@
 <div align="center">
   <a href="https://github.com/GabrielTiznado">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=FFFFFF&background=1E3A8A&center=true&vCenter=true&width=1000&height=120&lines=Gabriel+Tiznado;Cybersecurity+Engineer;Blue+Team+%7C+SOC+Analyst" alt="Typing effect" width="100%" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=FFFFFF&background=1E3A8A&center=true&vCenter=true&width=1000&height=120&lines=Hi,+I'm+Gabriel+Tiznado;Cybersecurity+Engineer;Blue+Team+%7C+SOC+Analyst" alt="Typing effect" width="100%" />
   </a>
 </div>
+
+Cybersecurity-focused Engineer with a background in Web and SEO consulting. I am a strong advocate for Open Source and continuous self-directed learning, actively participating and excelling in Bug Bounty programs.
+
+Passionate about building tools with TypeScript and GO, I strive to develop solutions that aren't just functional, but secure and robust. 
 
 ## Connect with me:
 
@@ -14,9 +18,6 @@
 ---
 
 ## Hi, I'm Gabriel Tiznado
-Cybersecurity-focused Engineer with a background in Web and SEO consulting. I am a strong advocate for Open Source and continuous self-directed learning, actively participating and excelling in Bug Bounty programs.
-
-Passionate about building tools with TypeScript and GO, I strive to develop solutions that aren't just functional, but secure and robust. 
 
 **I am open to**:
 - 💼 Security & IT Roles: Cybersecurity Engineer, SOC Analyst, IT Support
