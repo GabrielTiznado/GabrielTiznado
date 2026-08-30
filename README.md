@@ -4,6 +4,8 @@
   </a>
 </div>
 
+![GitSkins Animated Hero](https://www.gitskins.com/api/section/hero?username=GabrielTiznado&theme=github-dark&style=aura)
+
 ## Hi, I'm Gabriel Tiznado
 
 Cybersecurity-focused Engineer with a background in Web and SEO consulting. I am a strong advocate for Open Source and continuous self-directed learning, actively participating and excelling in Bug Bounty programs.
@@ -16,6 +18,8 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
 - 🤝 Collaboration: Open Source projects & security research
 
 ## Connect with me:
+
+![GitSkins Animated Social Row](https://www.gitskins.com/api/section/social?username=octocat&theme=github-dark&style=aura)
 
 [<img src="https://img.shields.io/badge/Gmail-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:tiznadog1@gmail.com)&nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/gabriel-tiznado-856062284/)&nbsp;
@@ -82,7 +86,6 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
 
 ---
 
-![GitSkins Animated Hero](https://www.gitskins.com/api/section/hero?username=GabrielTiznado&theme=github-dark&style=aura)
 
 ![GitSkins Animated Stats](https://www.gitskins.com/api/section/stats?username=GabrielTiznado&theme=github-dark&style=aura)
 
@@ -94,4 +97,3 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
 
 ![GitSkins Animated Heatmap](https://www.gitskins.com/api/section/heatmap?username=GabrielTiznado&theme=github-dark&style=aura)
 
-![GitSkins Animated Social Row](https://www.gitskins.com/api/section/social?username=octocat&theme=github-dark&style=aura)
