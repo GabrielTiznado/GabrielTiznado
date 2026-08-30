@@ -25,75 +25,19 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
   <a href="https://youtube.com/shorts/HEnTXrjdCZ8"><img src="https://img.shields.io/badge/Video_Presentación_🇪🇸-E62117?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Presentación ES" /></a>
 </p>
 
-<table align="center" border="0">
-  <!-- PRIMERA FILA -->
-  <tr>
-    <td align="center" width="20%">
-      <b>Kenan Gain</b><br><br>
-      <a href="TU_LINK_READCV">
-        <img src="./assets/social-icons/readcv.png" width="120" alt="Read.cv">
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <b>YouTube</b><br><br>
-      <a href="TU_LINK_YOUTUBE">
-        <img src="./assets/social-icons/youtube.png" width="120" alt="YouTube">
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <b>Instagram</b><br><br>
-      <a href="TU_LINK_INSTAGRAM">
-        <img src="./assets/social-icons/instagram.png" width="120" alt="Instagram">
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <b>LinkedIn</b><br><br>
-      <a href="TU_LINK_LINKEDIN">
-        <img src="./assets/social-icons/linkedin.png" width="120" alt="LinkedIn">
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <b>Facebook</b><br><br>
-      <a href="TU_LINK_FACEBOOK">
-        <img src="./assets/social-icons/facebook.png" width="120" alt="Facebook">
-      </a>
-    </td>
-  </tr>
+<div align="center">
+  <h2>🌐 Connect with Me</h2>
+  <p>Discover my work and connect on these platforms!</p>
 
-  <!-- SEGUNDA FILA -->
-  <tr>
-    <td align="center" width="20%">
-      <b>Twitch</b><br><br>
-      <a href="TU_LINK_TWITCH">
-        <img src="./assets/social-icons/twitch.png" width="120" alt="Twitch">
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <b>Twitter</b><br><br>
-      <a href="TU_LINK_TWITTER">
-        <img src="./assets/social-icons/twitter.png" width="120" alt="Twitter">
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <b>Reddit</b><br><br>
-      <a href="TU_LINK_REDDIT">
-        <img src="./assets/social-icons/reddit.png" width="120" alt="Reddit">
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <b>Discord</b><br><br>
-      <a href="TU_LINK_DISCORD">
-        <img src="./assets/social-icons/discord.png" width="120" alt="Discord">
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <b>GitHub</b><br><br>
-      <a href="TU_LINK_GITHUB">
-        <img src="./assets/social-icons/github.png" width="120" alt="GitHub">
-      </a>
-    </td>
-  </tr>
-</table>
+| Kenan Gain | YouTube | Instagram | LinkedIn | Facebook |
+| :---: | :---: | :---: | :---: | :---: |
+| [![Read.cv](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Kenan+Gain&size=square)](TU_ENLACE_READCV) | [![YouTube](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40KnightGamer87&subtitle=@knightgamer87&size=square)](https://www.youtube.com/@KnightGamer87) | [![Instagram](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@knightgamer87&size=square)](https://www.instagram.com/knightgamer87/) | [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Kenan+Gain&size=square)](https://www.linkedin.com/in/kenan-gain-33048518a/) | [![Facebook](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Kenan+Gain&size=square)](https://facebook.com/kenan.gain) |
+
+| Twitch | Twitter | Reddit | Discord | GitHub |
+| :---: | :---: | :---: | :---: | :---: |
+| [![Twitch](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitch.tv%2Fknightgamer2910&subtitle=@knightgamer2910&size=square)](https://twitch.tv/knightgamer2910) | [![Twitter](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fgain_kenan&subtitle=@KenanGain&size=square)](https://x.com/gain_kenan) | [![Reddit](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FAutomated_Artistry&subtitle=r%2FAutomated_Artistry&size=square)](https://www.reddit.com/user/Automated_Artistry) | [![Discord](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Knight+Gamer&size=square)](https://discord.gg/YdDyV6QqEN) | [![GitHub](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2FKenan+Gain&size=square)](https://github.com/KenanGain) |
+
+</div>
 
 ## 🛠️ Tech Stack & Skills
 #### Programming Languages:
