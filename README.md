@@ -12,6 +12,9 @@ Cybersecurity-focused Engineer with a background in Web and SEO consulting. I am
 
 Passionate about building tools with TypeScript and GO, I strive to develop solutions that aren't just functional, but secure and robust. 
 
+![GitSkins Animated Highlights](https://www.gitskins.com/api/section/highlights?username=GabrielTiznado&theme=github-dark&style=aura)
+
+
 **I am open to**:
 - 💼 Security & IT Roles: Cybersecurity Engineer, SOC Analyst, IT Support
 - 💻 Development Roles: Backend / Frontend Developer (TypeScript, GO), Freelance projects
@@ -93,7 +96,6 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
 
 ![GitSkins Animated Projects](https://www.gitskins.com/api/section/projects?username=GabrielTiznado&theme=github-dark&style=aura)
 
-![GitSkins Animated Highlights](https://www.gitskins.com/api/section/highlights?username=GabrielTiznado&theme=github-dark&style=aura)
 
 ![GitSkins Animated Heatmap](https://www.gitskins.com/api/section/heatmap?username=GabrielTiznado&theme=github-dark&style=aura)
 
