@@ -39,6 +39,20 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
 
 </div>
 
+<div align="center">
+  <h2>🌐 Conéctate conmigo / Connect with Me</h2>
+  <p>¡Descubre mi trabajo y contáctame en estas plataformas!</p>
+
+| CV (ES) | CV (EN) | Video (ES) | Video (EN) | Gmail |
+| :---: | :---: | :---: | :---: | :---: |
+| [![CV Español](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siRead.cv&subtitle=CV+Espa%C3%B1ol&size=mini)](TU_LINK_CV_ES) | [![CV English](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siRead.cv&subtitle=CV+English&size=mini)](TU_LINK_CV_EN) | [![Video ES](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siYoutube&subtitle=Presentaci%C3%B3n+ES&size=mini)](TU_LINK_VIDEO_ES) | [![Video EN](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siYoutube&subtitle=Presentation+EN&size=mini)](TU_LINK_VIDEO_EN) | [![Gmail](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGmail&subtitle=tuemail%40gmail.com&size=mini)](mailto:tuemail@gmail.com) |
+
+| LinkedIn | Signal | Discord | Reddit | GitHub |
+| :---: | :---: | :---: | :---: | :---: |
+| [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2FTU_USUARIO&subtitle=@TuUsuario&size=mini)](https://linkedin.com/in/TU_USUARIO) | [![Signal](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siSignal&subtitle=@TuUsuario&size=mini)](TU_LINK_SIGNAL) | [![Discord](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FTU_INVITACION&subtitle=TuUsuario&size=mini)](https://discord.gg/TU_INVITACION) | [![Reddit](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FTU_USUARIO&subtitle=r%2FTuUsuario&size=mini)](https://reddit.com/user/TU_USUARIO) | [![GitHub](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FTU_USUARIO&subtitle=%2FTuUsuario&size=mini)](https://github.com/TU_USUARIO) |
+
+</div>
+
 ## 🛠️ Tech Stack & Skills
 #### Programming Languages:
 ![HTML](https://img.shields.io/badge/HTML5-1E3A8A?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
