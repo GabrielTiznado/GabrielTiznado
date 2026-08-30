@@ -17,15 +17,6 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
 - 💻 Development Roles: Backend / Frontend Developer (TypeScript, GO), Freelance projects
 - 🤝 Collaboration: Open Source projects & security research
 
-## Connect with me:
-
-![GitSkins Animated Social Row](https://www.gitskins.com/api/section/social?username=octocat&theme=github-dark&style=aura)
-
-[<img src="https://img.shields.io/badge/Gmail-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:tiznadog1@gmail.com)&nbsp;
-[<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/gabriel-tiznado-856062284/)&nbsp;
-[![Video Presentation 🇺🇸](https://img.shields.io/badge/Video_Presentation_🇺🇸-E62117?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/HEnTXrjdCZ8)
-[![Video Presentación 🇪🇸](https://img.shields.io/badge/Video_Presentación_🇪🇸-E62117?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/HEnTXrjdCZ8)
-
 ## Skills
 #### Programming Languages:
 ![HTML](https://img.shields.io/badge/HTML5-1E3A8A?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -87,26 +78,6 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
 ---
 
 
-![GitSkins Animated Stats](https://www.gitskins.com/api/section/stats?username=GabrielTiznado&theme=github-dark&style=aura)
-
-![GitSkins Animated Stack](https://www.gitskins.com/api/section/stack?username=GabrielTiznado&theme=github-dark&style=aura)
-
-![GitSkins Animated Projects](https://www.gitskins.com/api/section/projects?username=GabrielTiznado&theme=github-dark&style=aura)
-
-
-![GitSkins Animated Heatmap](https://www.gitskins.com/api/section/heatmap?username=GabrielTiznado&theme=github-dark&style=aura)
-
-
-
-
-
-
-## Header
-
-Hi, I'm **Linus Torvalds** (@torvalds). This README shares what I'm building, the tools I use, and the work I'm proud of.
-
-
-
 ## 🚀 About Me
 
 Desarrollador enfocado en construir software escalable, limpio y eficiente. Apasionado por resolver problemas complejos y abierto a nuevas oportunidades laborales.
@@ -159,6 +130,7 @@ Desarrollador enfocado en construir software escalable, limpio y eficiente. Apas
   </picture>
 </p>
 
+
 ## 📫 Connect With Me
 
 <p align="center">
@@ -169,11 +141,22 @@ Desarrollador enfocado en construir software escalable, limpio y eficiente. Apas
   </picture>
 </p>
 
-https://www.gitskins.com/showcase/GabrielTiznado?skin=frosted
+
+
+
+
+
+
+
+
 
 [![GabrielTiznado's animated GitSkins profile](https://www.gitskins.com/api/section/hero?username=GabrielTiznado&theme=winter&style=aura)](https://www.gitskins.com/showcase/GabrielTiznado?skin=frosted)
 
-
+## Connect with me:
+[<img src="https://img.shields.io/badge/Gmail-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:tiznadog1@gmail.com)&nbsp;
+[<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/gabriel-tiznado-856062284/)&nbsp;
+[![Video Presentation 🇺🇸](https://img.shields.io/badge/Video_Presentation_🇺🇸-E62117?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/HEnTXrjdCZ8)
+[![Video Presentación 🇪🇸](https://img.shields.io/badge/Video_Presentación_🇪🇸-E62117?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/HEnTXrjdCZ8)
 
 
 <div align="center">
