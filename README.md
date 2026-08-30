@@ -25,6 +25,37 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
   <a href="https://youtube.com/shorts/HEnTXrjdCZ8"><img src="https://img.shields.io/badge/Video_Presentación_🇪🇸-E62117?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Presentación ES" /></a>
 </p>
 
+<table>
+  <tr>
+    <td align="center"><b>Gmail</b></td>
+    <td align="center"><b>LinkedIn</b></td>
+    <td align="center"><b>YouTube (US)</b></td>
+    <td align="center"><b>YouTube (ES)</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="mailto:tiznadog1@gmail.com">
+        <img src="https://www.gitskins.com/api/card/gmail?username=GabrielTiznado&theme=github-dark" alt="Gmail" width="160" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/gabriel-tiznado-856062284/">
+        <img src="https://www.gitskins.com/api/card/linkedin?username=GabrielTiznado&theme=github-dark" alt="LinkedIn" width="160" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://youtube.com/shorts/HEnTXrjdCZ8">
+        <img src="https://www.gitskins.com/api/card/youtube?username=GabrielTiznado&theme=github-dark" alt="YouTube EN" width="160" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://youtube.com/shorts/HEnTXrjdCZ8">
+        <img src="https://www.gitskins.com/api/card/youtube?username=GabrielTiznado&theme=github-dark" alt="YouTube ES" width="160" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## 🛠️ Tech Stack & Skills
 #### Programming Languages:
 ![HTML](https://img.shields.io/badge/HTML5-1E3A8A?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
