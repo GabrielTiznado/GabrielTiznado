@@ -1,19 +1,16 @@
-<div align="center">
-  <a href="https://github.com/GabrielTiznado">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=FFFFFF&background=1E3A8A&center=true&vCenter=true&width=1000&height=120&lines=Gabriel+Tiznado;Cybersecurity+Engineer;Blue+Team+%7C+SOC+Analyst" alt="Typing effect" width="100%" />
-  </a>
-</div>
-
-![GitSkins Animated Hero](https://www.gitskins.com/api/section/hero?username=GabrielTiznado&theme=github-dark&style=aura)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/hero?username=GabrielTiznado&theme=github-dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=GabrielTiznado&theme=github-light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=GabrielTiznado&theme=github-dark" alt="Gabriel Tiznado Hero Section" />
+  </picture>
+</p>
 
 ## Hi, I'm Gabriel Tiznado
 
 Cybersecurity-focused Engineer with a background in Web and SEO consulting. I am a strong advocate for Open Source and continuous self-directed learning, actively participating and excelling in Bug Bounty programs.
 
 Passionate about building tools with TypeScript and GO, I strive to develop solutions that aren't just functional, but secure and robust. 
-
-![GitSkins Animated Highlights](https://www.gitskins.com/api/section/highlights?username=GabrielTiznado&theme=github-dark&style=aura)
-
 
 **I am open to**:
 - 💼 Security & IT Roles: Cybersecurity Engineer, SOC Analyst, IT Support
@@ -108,13 +105,7 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
 
 Hi, I'm **Linus Torvalds** (@torvalds). This README shares what I'm building, the tools I use, and the work I'm proud of.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/hero?username=GabrielTiznado&theme=github-dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=GabrielTiznado&theme=github-light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=GabrielTiznado&theme=github-dark" alt="Gabriel Tiznado Hero Section" />
-  </picture>
-</p>
+
 
 ## 🚀 About Me
 
@@ -181,3 +172,12 @@ Desarrollador enfocado en construir software escalable, limpio y eficiente. Apas
 https://www.gitskins.com/showcase/GabrielTiznado?skin=frosted
 
 [![GabrielTiznado's animated GitSkins profile](https://www.gitskins.com/api/section/hero?username=GabrielTiznado&theme=winter&style=aura)](https://www.gitskins.com/showcase/GabrielTiznado?skin=frosted)
+
+
+
+
+<div align="center">
+  <a href="https://github.com/GabrielTiznado">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=FFFFFF&background=1E3A8A&center=true&vCenter=true&width=1000&height=120&lines=Gabriel+Tiznado;Cybersecurity+Engineer;Blue+Team+%7C+SOC+Analyst" alt="Typing effect" width="100%" />
+  </a>
+</div>
