@@ -18,16 +18,6 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
 - 🤝 Collaboration: Open Source projects & security research
 
 ## 🛠️ Tech Stack & Skills
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/stack?username=GabrielTiznado&theme=github-dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=GabrielTiznado&theme=github-light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=GabrielTiznado&theme=github-dark" alt="Gabriel Tiznado Tech Stack" />
-  </picture>
-</p>
-
-## Skills
 #### Programming Languages:
 ![HTML](https://img.shields.io/badge/HTML5-1E3A8A?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1E40AF?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -86,17 +76,6 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
 [![Agile](https://img.shields.io/badge/Metodologías_Ágiles-000000?style=for-the-badge&logoColor=white)](#)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/stats?username=GabrielTiznado&theme=github-dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=GabrielTiznado&theme=github-light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=GabrielTiznado&theme=github-dark" alt="Gabriel Tiznado Stats" />
-  </picture>
-</p>
-
 ## 💻 Featured Projects
 
 <p align="center">
