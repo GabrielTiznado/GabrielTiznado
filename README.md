@@ -17,6 +17,16 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
 - 💻 Development Roles: Backend / Frontend Developer (TypeScript, GO), Freelance projects
 - 🤝 Collaboration: Open Source projects & security research
 
+## 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/stack?username=GabrielTiznado&theme=github-dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=GabrielTiznado&theme=github-light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=GabrielTiznado&theme=github-dark" alt="Gabriel Tiznado Tech Stack" />
+  </picture>
+</p>
+
 ## Skills
 #### Programming Languages:
 ![HTML](https://img.shields.io/badge/HTML5-1E3A8A?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -76,29 +86,6 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
 [![Agile](https://img.shields.io/badge/Metodologías_Ágiles-000000?style=for-the-badge&logoColor=white)](#)
 
 ---
-
-
-## 🚀 About Me
-
-Desarrollador enfocado en construir software escalable, limpio y eficiente. Apasionado por resolver problemas complejos y abierto a nuevas oportunidades laborales.
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/about?username=GabrielTiznado&theme=github-dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=GabrielTiznado&theme=github-light" />
-    <img src="https://www.gitskins.com/api/section/about?username=GabrielTiznado&theme=github-dark" alt="Gabriel Tiznado About Section" />
-  </picture>
-</p>
-
-## 🛠️ Tech Stack & Skills
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/stack?username=GabrielTiznado&theme=github-dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=GabrielTiznado&theme=github-light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=GabrielTiznado&theme=github-dark" alt="Gabriel Tiznado Tech Stack" />
-  </picture>
-</p>
 
 ## 📊 GitHub Stats
 
