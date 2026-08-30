@@ -26,16 +26,16 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
 </p>
 
 <div align="center">
-  <h2>🌐 Connect with Me</h2>
-  <p>Discover my work and connect on these platforms!</p>
+  <h2>🌐 Conéctate conmigo / Connect with Me</h2>
+  <p>¡Descubre mi trabajo y contáctame en estas plataformas! / Discover my work and connect on these platforms!</p>
 
-| Kenan Gain | YouTube | Instagram | LinkedIn | Facebook |
-| :---: | :---: | :---: | :---: | :---: |
-| [![Read.cv](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Kenan+Gain&size=square)](TU_ENLACE_READCV) | [![YouTube](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40KnightGamer87&subtitle=@knightgamer87&size=square)](https://www.youtube.com/@KnightGamer87) | [![Instagram](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@knightgamer87&size=square)](https://www.instagram.com/knightgamer87/) | [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Kenan+Gain&size=square)](https://www.linkedin.com/in/kenan-gain-33048518a/) | [![Facebook](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Kenan+Gain&size=square)](https://facebook.com/kenan.gain) |
+| CV (ES) | CV (EN) | Video (ES) | Video (EN) |
+| :---: | :---: | :---: | :---: |
+| [![CV Español](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGoogleDrive&subtitle=CV+Espa%C3%B1ol&size=square)](TU_LINK_CV_ES) | [![CV English](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGoogleDrive&subtitle=CV+English&size=square)](TU_LINK_CV_EN) | [![Video ES](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siYoutube&subtitle=Presentaci%C3%B3n+ES&size=square)](TU_LINK_VIDEO_ES) | [![Video EN](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siYoutube&subtitle=Presentation+EN&size=square)](TU_LINK_VIDEO_EN) |
 
-| Twitch | Twitter | Reddit | Discord | GitHub |
-| :---: | :---: | :---: | :---: | :---: |
-| [![Twitch](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitch.tv%2Fknightgamer2910&subtitle=@knightgamer2910&size=square)](https://twitch.tv/knightgamer2910) | [![Twitter](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fgain_kenan&subtitle=@KenanGain&size=square)](https://x.com/gain_kenan) | [![Reddit](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FAutomated_Artistry&subtitle=r%2FAutomated_Artistry&size=square)](https://www.reddit.com/user/Automated_Artistry) | [![Discord](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Knight+Gamer&size=square)](https://discord.gg/YdDyV6QqEN) | [![GitHub](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2FKenan+Gain&size=square)](https://github.com/KenanGain) |
+| LinkedIn | Signal | Discord | Reddit |
+| :---: | :---: | :---: | :---: |
+| [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2FTU_USUARIO&subtitle=@TuUsuario&size=square)](https://linkedin.com/in/TU_USUARIO) | [![Signal](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siSignal&subtitle=@TuUsuario&size=square)](TU_LINK_SIGNAL) | [![Discord](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FTU_INVITACION&subtitle=TuUsuario&size=square)](https://discord.gg/TU_INVITACION) | [![Reddit](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FTU_USUARIO&subtitle=r%2FTuUsuario&size=square)](https://reddit.com/user/TU_USUARIO) |
 
 </div>
 
