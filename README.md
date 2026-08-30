@@ -99,9 +99,10 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
 
 ![GitSkins Animated Heatmap](https://www.gitskins.com/api/section/heatmap?username=GabrielTiznado&theme=github-dark&style=aura)
 
-# Linus Torvalds
 
-> Recruiter-friendly proof and contact path.
+
+
+
 
 ## Header
 
@@ -109,63 +110,70 @@ Hi, I'm **Linus Torvalds** (@torvalds). This README shares what I'm building, th
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=torvalds&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=torvalds&theme=github-dark" alt="torvalds hero section" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/hero?username=GabrielTiznado&theme=github-dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=GabrielTiznado&theme=github-light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=GabrielTiznado&theme=github-dark" alt="Gabriel Tiznado Hero Section" />
   </picture>
 </p>
-## About Me
 
-A public GitHub profile focused on get hired.
+## 🚀 About Me
+
+Desarrollador enfocado en construir software escalable, limpio y eficiente. Apasionado por resolver problemas complejos y abierto a nuevas oportunidades laborales.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=torvalds&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=torvalds&theme=github-dark" alt="torvalds about section" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/about?username=GabrielTiznado&theme=github-dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=GabrielTiznado&theme=github-light" />
+    <img src="https://www.gitskins.com/api/section/about?username=GabrielTiznado&theme=github-dark" alt="Gabriel Tiznado About Section" />
   </picture>
 </p>
-## Skills
 
-Languages and tools: C, Assembly, Rust, Shell, Python.
+## 🛠️ Tech Stack & Skills
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=torvalds&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=torvalds&theme=github-dark" alt="torvalds stack section" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/stack?username=GabrielTiznado&theme=github-dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=GabrielTiznado&theme=github-light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=GabrielTiznado&theme=github-dark" alt="Gabriel Tiznado Tech Stack" />
   </picture>
 </p>
-## GitHub Stats
 
-9 repositories · 257k stars · 3.6k contributions.
+## 📊 GitHub Stats
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=torvalds&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=torvalds&theme=github-dark" alt="torvalds stats section" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/stats?username=GabrielTiznado&theme=github-dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=GabrielTiznado&theme=github-light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=GabrielTiznado&theme=github-dark" alt="Gabriel Tiznado Stats" />
   </picture>
 </p>
-## Projects
 
-Featured repositories: linux, GuitarPedal, uemacs.
+## 💻 Featured Projects
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=torvalds&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=torvalds&theme=github-dark" alt="torvalds projects section" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/projects?username=GabrielTiznado&theme=github-dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=GabrielTiznado&theme=github-light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=GabrielTiznado&theme=github-dark" alt="Gabriel Tiznado Projects" />
   </picture>
 </p>
-## Heatmap
+
+## 🔥 Contribution Activity
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=torvalds&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/heatmap?username=torvalds&theme=github-dark" alt="torvalds heatmap section" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=GabrielTiznado&theme=github-dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=GabrielTiznado&theme=github-light" />
+    <img src="https://www.gitskins.com/api/section/heatmap?username=GabrielTiznado&theme=github-dark" alt="Gabriel Tiznado Heatmap" />
   </picture>
 </p>
-## Connect
+
+## 📫 Connect With Me
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=torvalds&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=torvalds&theme=github-dark" alt="torvalds social section" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/social?username=GabrielTiznado&theme=github-dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=GabrielTiznado&theme=github-light" />
+    <img src="https://www.gitskins.com/api/section/social?username=GabrielTiznado&theme=github-dark" alt="Gabriel Tiznado Social Links" />
   </picture>
 </p>
