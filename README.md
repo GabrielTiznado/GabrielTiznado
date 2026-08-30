@@ -82,4 +82,16 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
 
 ---
 
-[![octocat's animated GitSkins profile](https://www.gitskins.com/api/section/hero?username=octocat&theme=winter&style=aura)](https://www.gitskins.com/showcase/octocat?skin=frosted)
+![GitSkins Animated Hero](https://www.gitskins.com/api/section/hero?username=GabrielTiznado&theme=github-dark&style=aura)
+
+![GitSkins Animated Stats](https://www.gitskins.com/api/section/stats?username=GabrielTiznado&theme=github-dark&style=aura)
+
+![GitSkins Animated Stack](https://www.gitskins.com/api/section/stack?username=GabrielTiznado&theme=github-dark&style=aura)
+
+![GitSkins Animated Projects](https://www.gitskins.com/api/section/projects?username=GabrielTiznado&theme=github-dark&style=aura)
+
+![GitSkins Animated Highlights](https://www.gitskins.com/api/section/highlights?username=GabrielTiznado&theme=github-dark&style=aura)
+
+![GitSkins Animated Heatmap](https://www.gitskins.com/api/section/heatmap?username=GabrielTiznado&theme=github-dark&style=aura)
+
+![GitSkins Animated Social Row](https://www.gitskins.com/api/section/social?username=octocat&theme=github-dark&style=aura)
