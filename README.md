@@ -177,3 +177,7 @@ Desarrollador enfocado en construir software escalable, limpio y eficiente. Apas
     <img src="https://www.gitskins.com/api/section/social?username=GabrielTiznado&theme=github-dark" alt="Gabriel Tiznado Social Links" />
   </picture>
 </p>
+
+https://www.gitskins.com/showcase/GabrielTiznado?skin=frosted
+
+[![GabrielTiznado's animated GitSkins profile](https://www.gitskins.com/api/section/hero?username=GabrielTiznado&theme=winter&style=aura)](https://www.gitskins.com/showcase/GabrielTiznado?skin=frosted)
