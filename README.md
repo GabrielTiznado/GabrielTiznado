@@ -26,31 +26,70 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
 </p>
 
 <table>
+  <!-- PRIMERA FILA -->
   <tr>
-    <td align="center"><b>Gmail</b></td>
-    <td align="center"><b>LinkedIn</b></td>
-    <td align="center"><b>YouTube (US)</b></td>
-    <td align="center"><b>YouTube (ES)</b></td>
+    <td align="center">
+      <b>Read.cv</b><br>
+      <a href="TU_ENLACE_A_READCV">
+        <img src="https://www.readmecodegen.com/api/social-icon?name=readcv&text=Kenan%20Gain&reverseBackground=true&shape=rect" width="120" alt="Read.cv">
+      </a>
+    </td>
+    <td align="center">
+      <b>YouTube</b><br>
+      <a href="TU_ENLACE_A_YOUTUBE">
+        <img src="https://www.readmecodegen.com/api/social-icon?name=youtube&text=@knightgamer87&reverseBackground=true&shape=rect" width="120" alt="YouTube">
+      </a>
+    </td>
+    <td align="center">
+      <b>Instagram</b><br>
+      <a href="TU_ENLACE_A_INSTAGRAM">
+        <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&text=@knightgamer87&reverseBackground=true&shape=rect" width="120" alt="Instagram">
+      </a>
+    </td>
+    <td align="center">
+      <b>LinkedIn</b><br>
+      <a href="TU_ENLACE_A_LINKEDIN">
+        <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&text=@Kenan%20Gain&reverseBackground=true&shape=rect" width="120" alt="LinkedIn">
+      </a>
+    </td>
+    <td align="center">
+      <b>Facebook</b><br>
+      <a href="TU_ENLACE_A_FACEBOOK">
+        <img src="https://www.readmecodegen.com/api/social-icon?name=facebook&text=@Kenan%20Gain&reverseBackground=true&shape=rect" width="120" alt="Facebook">
+      </a>
+    </td>
   </tr>
+  
+  <!-- SEGUNDA FILA -->
   <tr>
     <td align="center">
-      <a href="mailto:tiznadog1@gmail.com">
-        <img src="https://www.gitskins.com/api/card/gmail?username=GabrielTiznado&theme=github-dark" alt="Gmail" width="160" />
+      <b>Twitch</b><br>
+      <a href="TU_ENLACE_A_TWITCH">
+        <img src="https://www.readmecodegen.com/api/social-icon?name=twitch&text=@knightgamer2910&reverseBackground=true&shape=rect" width="120" alt="Twitch">
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/gabriel-tiznado-856062284/">
-        <img src="https://www.gitskins.com/api/card/linkedin?username=GabrielTiznado&theme=github-dark" alt="LinkedIn" width="160" />
+      <b>Twitter</b><br>
+      <a href="TU_ENLACE_A_TWITTER">
+        <img src="https://www.readmecodegen.com/api/social-icon?name=twitter&text=@KenanGain&reverseBackground=true&shape=rect" width="120" alt="Twitter">
       </a>
     </td>
     <td align="center">
-      <a href="https://youtube.com/shorts/HEnTXrjdCZ8">
-        <img src="https://www.gitskins.com/api/card/youtube?username=GabrielTiznado&theme=github-dark" alt="YouTube EN" width="160" />
+      <b>Reddit</b><br>
+      <a href="TU_ENLACE_A_REDDIT">
+        <img src="https://www.readmecodegen.com/api/social-icon?name=reddit&text=r/Automated_Artistr...&reverseBackground=true&shape=rect" width="120" alt="Reddit">
       </a>
     </td>
     <td align="center">
-      <a href="https://youtube.com/shorts/HEnTXrjdCZ8">
-        <img src="https://www.gitskins.com/api/card/youtube?username=GabrielTiznado&theme=github-dark" alt="YouTube ES" width="160" />
+      <b>Discord</b><br>
+      <a href="TU_ENLACE_A_DISCORD">
+        <img src="https://www.readmecodegen.com/api/social-icon?name=discord&text=Knight%20Gamer&reverseBackground=true&shape=rect" width="120" alt="Discord">
+      </a>
+    </td>
+    <td align="center">
+      <b>GitHub</b><br>
+      <a href="TU_ENLACE_A_GITHUB">
+        <img src="https://www.readmecodegen.com/api/social-icon?name=github&text=/Kenan%20Gain&reverseBackground=true&shape=rect" width="120" alt="GitHub">
       </a>
     </td>
   </tr>
