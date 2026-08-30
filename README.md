@@ -17,6 +17,14 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
 - 💻 Development Roles: Backend / Frontend Developer (TypeScript, GO), Freelance projects
 - 🤝 Collaboration: Open Source projects & security research
 
+## 📫 Connect With Me
+<p align="center">
+  <a href="mailto:tiznadog1@gmail.com"><img src="https://img.shields.io/badge/Gmail-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/gabriel-tiznado-856062284/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://youtube.com/shorts/HEnTXrjdCZ8"><img src="https://img.shields.io/badge/Video_Presentation_🇺🇸-E62117?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Presentation US" /></a>
+  <a href="https://youtube.com/shorts/HEnTXrjdCZ8"><img src="https://img.shields.io/badge/Video_Presentación_🇪🇸-E62117?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Presentación ES" /></a>
+</p>
+
 ## 🛠️ Tech Stack & Skills
 #### Programming Languages:
 ![HTML](https://img.shields.io/badge/HTML5-1E3A8A?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -75,7 +83,6 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
 [![Trello](https://img.shields.io/badge/Trello-1E40AF?style=for-the-badge&logo=trello&logoColor=white)](#)
 [![Agile](https://img.shields.io/badge/Metodologías_Ágiles-000000?style=for-the-badge&logoColor=white)](#)
 
----
 ## 💻 Projects
 
 <p align="center">
@@ -93,33 +100,6 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
     <img src="https://www.gitskins.com/api/section/heatmap?username=GabrielTiznado&theme=github-dark" alt="Gabriel Tiznado Heatmap" />
   </picture>
 </p>
-
-## 📫 Connect With Me
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/social?username=GabrielTiznado&theme=github-dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=GabrielTiznado&theme=github-light" />
-    <img src="https://www.gitskins.com/api/section/social?username=GabrielTiznado&theme=github-dark" alt="Gabriel Tiznado Social Links" />
-  </picture>
-</p>
-
-<p align="center">
-  <a href="mailto:tiznadog1@gmail.com"><img src="https://img.shields.io/badge/Gmail-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/gabriel-tiznado-856062284/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://youtube.com/shorts/HEnTXrjdCZ8"><img src="https://img.shields.io/badge/Video_Presentation_🇺🇸-E62117?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Presentation US" /></a>
-  <a href="https://youtube.com/shorts/HEnTXrjdCZ8"><img src="https://img.shields.io/badge/Video_Presentación_🇪🇸-E62117?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Presentación ES" /></a>
-</p>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,python,docker,git,linux)](https://skillicons.dev)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielTiznado&show_icons=true&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GabrielTiznado&theme=dark)](https://git.io/streak-stats)
-
 
 <div align="center">
   <a href="https://github.com/GabrielTiznado">
