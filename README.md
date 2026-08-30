@@ -76,7 +76,7 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
 [![Agile](https://img.shields.io/badge/Metodologías_Ágiles-000000?style=for-the-badge&logoColor=white)](#)
 
 ---
-## 💻 Featured Projects
+## 💻 Projects
 
 <p align="center">
   <picture>
@@ -85,8 +85,6 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
     <img src="https://www.gitskins.com/api/section/projects?username=GabrielTiznado&theme=github-dark" alt="Gabriel Tiznado Projects" />
   </picture>
 </p>
-
-## 🔥 Contribution Activity
 
 <p align="center">
   <picture>
@@ -108,15 +106,22 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
 </p>
 
 
+## 📫 Connect With Me
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/social?username=GabrielTiznado&theme=github-dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=GabrielTiznado&theme=github-light" />
+    <img src="https://www.gitskins.com/api/section/social?username=GabrielTiznado&theme=github-dark" alt="Gabriel Tiznado Social Links" />
+  </picture>
+</p>
 
-
-
-
-
-
-
-[![GabrielTiznado's animated GitSkins profile](https://www.gitskins.com/api/section/hero?username=GabrielTiznado&theme=winter&style=aura)](https://www.gitskins.com/showcase/GabrielTiznado?skin=frosted)
+<p align="center">
+  <a href="mailto:tiznadog1@gmail.com"><img src="https://img.shields.io/badge/Gmail-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/gabriel-tiznado-856062284/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://youtube.com/shorts/HEnTXrjdCZ8"><img src="https://img.shields.io/badge/Video_Presentation_🇺🇸-E62117?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Presentation US" /></a>
+  <a href="https://youtube.com/shorts/HEnTXrjdCZ8"><img src="https://img.shields.io/badge/Video_Presentación_🇪🇸-E62117?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Presentación ES" /></a>
+</p>
 
 ## Connect with me:
 [<img src="https://img.shields.io/badge/Gmail-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:tiznadog1@gmail.com)&nbsp;
