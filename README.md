@@ -25,71 +25,71 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
   <a href="https://youtube.com/shorts/HEnTXrjdCZ8"><img src="https://img.shields.io/badge/Video_Presentación_🇪🇸-E62117?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Presentación ES" /></a>
 </p>
 
-<table>
+<table align="center" border="0">
   <!-- PRIMERA FILA -->
   <tr>
-    <td align="center">
-      <b>Read.cv</b><br>
-      <a href="TU_ENLACE_A_READCV">
-        <img src="https://www.readmecodegen.com/api/social-icon?name=readcv&text=Kenan%20Gain&reverseBackground=true&shape=rect" width="120" alt="Read.cv">
+    <td align="center" width="20%">
+      <b>Kenan Gain</b><br><br>
+      <a href="TU_LINK_READCV">
+        <img src="./assets/social-icons/readcv.png" width="120" alt="Read.cv">
       </a>
     </td>
-    <td align="center">
-      <b>YouTube</b><br>
-      <a href="TU_ENLACE_A_YOUTUBE">
-        <img src="https://www.readmecodegen.com/api/social-icon?name=youtube&text=@knightgamer87&reverseBackground=true&shape=rect" width="120" alt="YouTube">
+    <td align="center" width="20%">
+      <b>YouTube</b><br><br>
+      <a href="TU_LINK_YOUTUBE">
+        <img src="./assets/social-icons/youtube.png" width="120" alt="YouTube">
       </a>
     </td>
-    <td align="center">
-      <b>Instagram</b><br>
-      <a href="TU_ENLACE_A_INSTAGRAM">
-        <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&text=@knightgamer87&reverseBackground=true&shape=rect" width="120" alt="Instagram">
+    <td align="center" width="20%">
+      <b>Instagram</b><br><br>
+      <a href="TU_LINK_INSTAGRAM">
+        <img src="./assets/social-icons/instagram.png" width="120" alt="Instagram">
       </a>
     </td>
-    <td align="center">
-      <b>LinkedIn</b><br>
-      <a href="TU_ENLACE_A_LINKEDIN">
-        <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&text=@Kenan%20Gain&reverseBackground=true&shape=rect" width="120" alt="LinkedIn">
+    <td align="center" width="20%">
+      <b>LinkedIn</b><br><br>
+      <a href="TU_LINK_LINKEDIN">
+        <img src="./assets/social-icons/linkedin.png" width="120" alt="LinkedIn">
       </a>
     </td>
-    <td align="center">
-      <b>Facebook</b><br>
-      <a href="TU_ENLACE_A_FACEBOOK">
-        <img src="https://www.readmecodegen.com/api/social-icon?name=facebook&text=@Kenan%20Gain&reverseBackground=true&shape=rect" width="120" alt="Facebook">
+    <td align="center" width="20%">
+      <b>Facebook</b><br><br>
+      <a href="TU_LINK_FACEBOOK">
+        <img src="./assets/social-icons/facebook.png" width="120" alt="Facebook">
       </a>
     </td>
   </tr>
-  
+
   <!-- SEGUNDA FILA -->
   <tr>
-    <td align="center">
-      <b>Twitch</b><br>
-      <a href="TU_ENLACE_A_TWITCH">
-        <img src="https://www.readmecodegen.com/api/social-icon?name=twitch&text=@knightgamer2910&reverseBackground=true&shape=rect" width="120" alt="Twitch">
+    <td align="center" width="20%">
+      <b>Twitch</b><br><br>
+      <a href="TU_LINK_TWITCH">
+        <img src="./assets/social-icons/twitch.png" width="120" alt="Twitch">
       </a>
     </td>
-    <td align="center">
-      <b>Twitter</b><br>
-      <a href="TU_ENLACE_A_TWITTER">
-        <img src="https://www.readmecodegen.com/api/social-icon?name=twitter&text=@KenanGain&reverseBackground=true&shape=rect" width="120" alt="Twitter">
+    <td align="center" width="20%">
+      <b>Twitter</b><br><br>
+      <a href="TU_LINK_TWITTER">
+        <img src="./assets/social-icons/twitter.png" width="120" alt="Twitter">
       </a>
     </td>
-    <td align="center">
-      <b>Reddit</b><br>
-      <a href="TU_ENLACE_A_REDDIT">
-        <img src="https://www.readmecodegen.com/api/social-icon?name=reddit&text=r/Automated_Artistr...&reverseBackground=true&shape=rect" width="120" alt="Reddit">
+    <td align="center" width="20%">
+      <b>Reddit</b><br><br>
+      <a href="TU_LINK_REDDIT">
+        <img src="./assets/social-icons/reddit.png" width="120" alt="Reddit">
       </a>
     </td>
-    <td align="center">
-      <b>Discord</b><br>
-      <a href="TU_ENLACE_A_DISCORD">
-        <img src="https://www.readmecodegen.com/api/social-icon?name=discord&text=Knight%20Gamer&reverseBackground=true&shape=rect" width="120" alt="Discord">
+    <td align="center" width="20%">
+      <b>Discord</b><br><br>
+      <a href="TU_LINK_DISCORD">
+        <img src="./assets/social-icons/discord.png" width="120" alt="Discord">
       </a>
     </td>
-    <td align="center">
-      <b>GitHub</b><br>
-      <a href="TU_ENLACE_A_GITHUB">
-        <img src="https://www.readmecodegen.com/api/social-icon?name=github&text=/Kenan%20Gain&reverseBackground=true&shape=rect" width="120" alt="GitHub">
+    <td align="center" width="20%">
+      <b>GitHub</b><br><br>
+      <a href="TU_LINK_GITHUB">
+        <img src="./assets/social-icons/github.png" width="120" alt="GitHub">
       </a>
     </td>
   </tr>
