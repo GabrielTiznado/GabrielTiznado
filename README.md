@@ -82,3 +82,4 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
 
 ---
 
+[![octocat's animated GitSkins profile](https://www.gitskins.com/api/section/hero?username=octocat&theme=winter&style=aura)](https://www.gitskins.com/showcase/octocat?skin=frosted)
