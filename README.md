@@ -12,7 +12,7 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
 ## 📫 Connect With Me
 <p align="center">
   <a href="mailto:tiznadogstudios@gmail.com"><img src="https://img.shields.io/badge/Gmail-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/tiznadogstudios//"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/tiznadogstudios/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="./Gabriel Tiznado _ Ingeniero de Ciberseguridad (Analista Soc).pdf"><img src="https://img.shields.io/badge/CV_Español_🇪🇸-008080?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV Español" /></a>
   <a href="Gabriel Tiznado _ Cybersecurity Engineer (SOC Analyst).pdf"><img src="https://img.shields.io/badge/CV_English_🇺🇸-008080?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV English" /></a>
   <a href="https://youtube.com/shorts/HEnTXrjdCZ8"><img src="https://img.shields.io/badge/Video_Presentation_🇺🇸-E62117?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Presentation US" /></a>
