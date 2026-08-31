@@ -79,21 +79,6 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
 ![Agile](https://img.shields.io/badge/Metodologías_Ágiles-000000?style=for-the-badge&logoColor=white)&nbsp;
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=GabrielTiznado&color=008080&style=for-the-badge&label=SOC+ACCESS+LOGS" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/GabrielTiznado/GabrielTiznado/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-```bash
-$ whoami
-> Gabriel Tiznado | Cybersecurity Engineer & Developer
-
-$ systemctl status security-mindset
-> ● ACTIVE (running) - Monitoring threats, writing Go/TS tools, & hunting bugs.
-
-<div align="center">
   <a href="https://github.com/GabrielTiznado">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=FFFFFF&background=1E3A8A&center=true&vCenter=true&width=1000&height=120&lines=Gabriel+Tiznado;Cybersecurity+Engineer;Blue+Team+%7C+SOC+Analyst" alt="Typing effect" width="100%" />
   </a>
