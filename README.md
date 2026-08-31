@@ -19,11 +19,13 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="mailto:tiznadog1@gmail.com"><img src="https://img.shields.io/badge/Gmail-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/gabriel-tiznado-856062284/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:tiznadogstudios@gmail.com"><img src="https://img.shields.io/badge/Gmail-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/tiznadogstudios//"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://youtube.com/shorts/HEnTXrjdCZ8"><img src="https://img.shields.io/badge/Video_Presentation_🇺🇸-E62117?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Presentation US" /></a>
   <a href="https://youtube.com/shorts/HEnTXrjdCZ8"><img src="https://img.shields.io/badge/Video_Presentación_🇪🇸-E62117?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Presentación ES" /></a>
 </p>
+
+https://github.com/GabrielTiznado
 
 <div align="center">
   <h2>🌐 Conéctate conmigo / Connect with Me</h2>
@@ -31,11 +33,11 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
 
 | CV (ES) | CV (EN) | Video (ES) | Video (EN) | Gmail |
 | :---: | :---: | :---: | :---: | :---: |
-| [![CV Español](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siRead.cv&subtitle=CV+Espa%C3%B1ol&size=square)](TU_LINK_CV_ES) | [![CV English](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siRead.cv&subtitle=CV+English&size=square)](TU_LINK_CV_EN) | [![Video ES](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siYoutube&subtitle=Presentaci%C3%B3n+ES&size=square)](TU_LINK_VIDEO_ES) | [![Video EN](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siYoutube&subtitle=Presentation+EN&size=square)](TU_LINK_VIDEO_EN) | [![Gmail](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGmail&subtitle=tuemail%40gmail.com&size=square)](mailto:tuemail@gmail.com) |
+| [![CV Español](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siRead.cv&subtitle=CV+Espa%C3%B1ol&size=square)](TU_LINK_CV_ES) | [![CV English](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siRead.cv&subtitle=CV+English&size=square)](TU_LINK_CV_) | [![Video ES](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siYoutube&subtitle=Presentaci%C3%B3n+ES&size=square)](https://youtube.com/shorts/HEnTXrjdCZ8) | [![Video EN](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siYoutube&subtitle=Presentation+EN&size=square)](https://youtube.com/shorts/HEnTXrjdCZ8) | [![Gmail](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGmail&subtitle=tuemail%40gmail.com&size=square)](mailto:tuemail@gmail.com) |
 
-| LinkedIn | Signal | Discord | Reddit | GitHub |
+| LinkedIn |
 | :---: | :---: | :---: | :---: | :---: |
-| [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2FTU_USUARIO&subtitle=@TuUsuario&size=square)](https://linkedin.com/in/TU_USUARIO) | [![Signal](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siSignal&subtitle=@TuUsuario&size=square)](TU_LINK_SIGNAL) | [![Discord](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FTU_INVITACION&subtitle=TuUsuario&size=square)](https://discord.gg/TU_INVITACION) | [![Reddit](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FTU_USUARIO&subtitle=r%2FTuUsuario&size=square)](https://reddit.com/user/TU_USUARIO) | [![GitHub](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FTU_USUARIO&subtitle=%2FTuUsuario&size=square)](https://github.com/TU_USUARIO) |
+| [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2FTU_USUARIO&subtitle=@TuUsuario&size=square)](https://www.linkedin.com/in/tiznadogstudios/)
 
 </div>
 
