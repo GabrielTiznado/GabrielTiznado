@@ -1,15 +1,3 @@
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=GabrielTiznado&theme=winter&style=aura" alt="Gabriel Tiznado Hero Section" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/hero?username=GabrielTiznado&theme=github-dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=GabrielTiznado&theme=github-light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=GabrielTiznado&theme=github-dark" alt="Gabriel Tiznado Hero Section" />
-  </picture>
-</p>
-
 ## Hi, I'm Gabriel Tiznado
 
 Cybersecurity-focused Engineer with a background in Web and SEO consulting. I am a strong advocate for Open Source and continuous self-directed learning, actively participating and excelling in Bug Bounty programs.
