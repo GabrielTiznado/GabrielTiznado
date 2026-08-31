@@ -90,20 +90,8 @@ Passionate about building tools with TypeScript and GO, I strive to develop solu
 ![Trello](https://img.shields.io/badge/Trello-1E40AF?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
 ![Agile](https://img.shields.io/badge/Metodologías_Ágiles-000000?style=for-the-badge&logoColor=white)&nbsp;
 
-## 💻 Projects
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/projects?username=GabrielTiznado&theme=github-dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=GabrielTiznado&theme=github-light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=GabrielTiznado&theme=github-dark" alt="Gabriel Tiznado Projects" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=GabrielTiznado&theme=github-dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=GabrielTiznado&theme=github-light" />
-    <img src="https://www.gitskins.com/api/section/heatmap?username=GabrielTiznado&theme=github-dark" alt="Gabriel Tiznado Heatmap" />
-  </picture>
-</p>
+<div align="center">
+  <a href="https://github.com/GabrielTiznado">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=FFFFFF&background=1E3A8A&center=true&vCenter=true&width=1000&height=120&lines=Gabriel+Tiznado;Cybersecurity+Engineer;Blue+Team+%7C+SOC+Analyst" alt="Typing effect" width="100%" />
+  </a>
+</div>
