@@ -5,9 +5,9 @@ Cybersecurity-focused Engineer with a background in Web and SEO consulting. I am
 Passionate about building tools with TypeScript and GO, I strive to develop solutions that aren't just functional, but secure and robust. 
 
 **I am open to**:
-- 💼 Security & IT Roles: Cybersecurity Engineer, SOC Analyst, IT Support
-- 💻 Development Roles: Backend / Frontend Developer (TypeScript, GO), Freelance projects
-- 🤝 Collaboration: Open Source projects & security research
+- 💼 Security & IT Roles: Cybersecurity Engineer, SOC Analyst, IT Support.
+- 💻 Development Roles: Backend / Frontend Developer (TypeScript, GO), Freelance projects.
+- 🤝 Collaboration: Open Source projects & security research.
 
 ## 📫 Connect With Me
 <p align="center">
